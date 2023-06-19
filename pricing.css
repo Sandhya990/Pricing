@@ -1,0 +1,50 @@
+.container{
+    width: 100%;
+    height: 540px;
+    background-color: lavender;
+    text-align: center;
+}
+.free{
+    width: 30%;
+    height: 400px;
+    margin-left: 25px;
+    margin-right: 20px;
+    text-align: left;
+    float: left;
+    background-color: white;
+}
+.gold{
+    width: 30%;
+    height: 400px;
+    margin-right: 20px;
+    text-align: left;
+    float: left;
+    background-color: white;
+}
+.diamond{
+    width: 30%;
+    height: 400px;
+    margin-right: 20px;
+    text-align: left;
+    float: left;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+
+.free:hover{
+    background-color:cadetblue ;
+}
+.gold:hover{
+    background-color: cadetblue;
+}
+.diamond:hover{
+    background-color: cadetblue;
+}
+button{
+    text-align: center ;
+}
+#subscribe1,#subscribe2,#subscribe3{
+    text-align: center;
+}
